@@ -9,7 +9,7 @@
 
 ### AshClock is a minimalist Rainmeter skin that brings a clean, elegant, and distraction-free clock to your Windows desktop.
 
-<img src="./preview/desktop-preview.png" alt="AshClock Preview" width="650"/>
+<img src="./preview/desktop-preview.png" alt="AshClock Preview" width="8750"/>
 
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%2011-0078D6?style=for-the-badge)
